@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabsAndSwipe</string>
+    <string name="title_section1">Лента</string>
+    <string name="title_section2">Фото</string>
+    <string name="title_section3">Карта</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">This is Tab: %1$d</string>
+    <string name="kerry">kerry</string>
+    <string name="map">map</string>
+    <string name="lenta">lenta</string>
+</resources>
